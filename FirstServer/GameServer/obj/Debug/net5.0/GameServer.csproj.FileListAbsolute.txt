@@ -1,0 +1,16 @@
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\bin\Debug\net5.0\GameServer.exe
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\bin\Debug\net5.0\GameServer.deps.json
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.json
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.dev.json
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\bin\Debug\net5.0\GameServer.dll
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\bin\Debug\net5.0\ref\GameServer.dll
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\bin\Debug\net5.0\GameServer.pdb
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.csprojAssemblyReference.cache
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfo.cs
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.dll
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\ref\GameServer.dll
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.pdb
+C:\Users\Ed\Documents\UnityAssetsAndTests\FirstServer\GameServer\obj\Debug\net5.0\GameServer.genruntimeconfig.cache
