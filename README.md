@@ -1,0 +1,1 @@
+Manually coding a server using c# libraries rather than unity libraries. Learnt how to open sockets, send and recieve data over TCP and UDP, create and send packets with data, and deal with packets arriving out of order. Ended with me syncing movement of simple objects between clients, but then moved to using unity libraries so I could do physics based movement. 
